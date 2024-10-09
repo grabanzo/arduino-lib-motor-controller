@@ -1,0 +1,23 @@
+{
+    "name": "arduino-lib-motor-controller",
+    "keywords": "MOTOR",
+    "description": "MOTOR L29 Lib",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/grabanzo/arduino-lib-motor-controller.git"
+    },
+    "authors":
+    [
+      {
+        "name": "mriosalido",
+        "email": "",
+        "url": "https://github.com/grabanzo",
+        "maintainer": true
+      }
+    ],
+    "licence": "MIT",
+    "version": "0.0.1",
+    "frameworks": "*",
+    "platforms": "*"
+  }
